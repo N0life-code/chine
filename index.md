@@ -6,4 +6,4 @@ Se trouvant à 400 km au sud de Shanghai, la ville portuaire de Wenzhou partage 
 
 Lors du recensement national de 2010, la ville de Wenzhou compte 9,1 millions d'habitants dont 3 039 439 dans la ville elle-même; 31.16 % de ces 9,1 millions de personnes sont des résidents venant de l'extérieur de Wenzhou. [c'est un lien](https://fr.wikipedia.org/)
 
-![c'est une image](img/otacos.jpg)
+![c'est une image](img/otacos.jpeg)
